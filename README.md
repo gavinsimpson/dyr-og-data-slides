@@ -16,3 +16,12 @@ These slides are for the Dyr og Data course at Aarhus University
     * [Groups, facets, stats](https://gavinsimpson.github.io/dyr-og-data-slides/slides/08-data-visualisation-groups-facets-stats.html)
     * [Scales and guides](https://gavinsimpson.github.io/dyr-og-data-slides/slides/09-data-visualisation-scales-guides.html)
     * [Themes and multiple plots](https://gavinsimpson.github.io/dyr-og-data-slides/slides/10-data-visualisation-themes-many-plots.html)
+
+## Documents from the in-class activities
+
+1. [Intro to R](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
+2. [Mathlink cubes](https://gavinsimpson.github.io/dyr-og-data-slides/activities/02-mathcubes-slides.html)
+3. [Wrangling polar bears](https://gavinsimpson.github.io/dyr-og-data-slides/activities/03-polar-bears.html)
+4. [Tidying & joining data](https://gavinsimpson.github.io/dyr-og-data-slides/activities/04-tidying-and-joining.html)
+5. [Making a plot with ggplot](https://gavinsimpson.github.io/dyr-og-data-slides/activities/05-making-a-plot-with-ggplot.html)
+6. [Dog morpholody data viz](https://gavinsimpson.github.io/dyr-og-data-slides/activities/06-dog-morphology-data-viz.html)
