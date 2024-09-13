@@ -5,7 +5,7 @@ These slides are for the Dyr og Data course at Aarhus University
 ## Slides from videos
 
 1. [Course introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01-course-introduction.html)
-2. [R basics](https://gavinsimpson.github.io/slides/dyr-og-data-slides/02-r-basics.html)
+2. [R basics](https://gavinsimpson.github.io/slides/dyr-og-data-slides/slides/02-r-basics.html)
 3. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
 4. Data wrangling
     * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
