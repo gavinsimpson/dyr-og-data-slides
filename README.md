@@ -16,6 +16,13 @@ These slides are for the Dyr og Data course at Aarhus University
     * [Groups, facets, stats](https://gavinsimpson.github.io/dyr-og-data-slides/slides/08-data-visualisation-groups-facets-stats.html)
     * [Scales and guides](https://gavinsimpson.github.io/dyr-og-data-slides/slides/09-data-visualisation-scales-guides.html)
     * [Themes and multiple plots](https://gavinsimpson.github.io/dyr-og-data-slides/slides/10-data-visualisation-themes-many-plots.html)
+6. Dynamic documents
+    * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
+    * [Dynamic documents](https://gavinsimpson.github.io/dyr-og-data-slides/slides/11-dynamic-documents.html)
+    * [Markdown](https://gavinsimpson.github.io/dyr-og-data-slides/slides/12-markdown.html)
+    * [YAML](https://gavinsimpson.github.io/dyr-og-data-slides/slides/13-yaml.html)
+    * [Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/14-quarto.html)
+    * [Making presentations with Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/15-quarto-revealjs-slides.html)
 
 ## Documents from the in-class activities
 
