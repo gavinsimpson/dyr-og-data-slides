@@ -23,6 +23,11 @@ These slides are for the Dyr og Data course at Aarhus University
     * [YAML](https://gavinsimpson.github.io/dyr-og-data-slides/slides/13-yaml.html)
     * [Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/14-quarto.html)
     * [Making presentations with Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/15-quarto-revealjs-slides.html)
+7. Statistical Thinking
+    * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/17-statistical-thinking-types-of-data.html)
+    * [Descriptive statistics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/18-statistical-thinking-descriptive-statistics.html)
+    * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
+    * [Graphical epxloratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
 
 ## Documents from the in-class activities
 
