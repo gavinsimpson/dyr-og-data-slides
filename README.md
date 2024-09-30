@@ -30,7 +30,7 @@ These slides are for the Dyr og Data course at Aarhus University
         * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
         * [Graphical exploratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
     ii. Sampling and statistical inference
-        * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
+        * [Sampling & statistical inference](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
 
 ## Documents from the in-class activities
 
