@@ -24,10 +24,13 @@ These slides are for the Dyr og Data course at Aarhus University
     * [Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/14-quarto.html)
     * [Making presentations with Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/15-quarto-revealjs-slides.html)
 7. Statistical Thinking
-    * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/17-statistical-thinking-types-of-data.html)
-    * [Descriptive statistics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/18-statistical-thinking-descriptive-statistics.html)
-    * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
-    * [Graphical epxloratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
+    i. Descriptive statistics and EDA
+        * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/17-statistical-thinking-types-of-data.html)
+        * [Descriptive statistics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/18-statistical-thinking-descriptive-statistics.html)
+        * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
+        * [Graphical exploratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
+    ii. Sampling and statistical inference
+        * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
 
 ## Documents from the in-class activities
 
