@@ -32,6 +32,8 @@ These slides are for the Dyr og Data course at Aarhus University
         * [Graphical exploratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
     * Sampling and statistical inference
         * [Sampling & statistical inference](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
+    * Linear models
+        * [Gaussian linear models](https://gavinsimpson.github.io/dyr-og-data-slides/slides/23-simple-linear-models.html)
 
 ## Documents from the in-class activities
 
