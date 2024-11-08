@@ -37,6 +37,10 @@ These slides are for the Dyr og Data course at Aarhus University
         * [Interactions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/24-models-with-categorical-predictors.html)
         * [Generalized Linear Models](https://gavinsimpson.github.io/dyr-og-data-slides/slides/25-generalized-linear-models.html)
 
+## Portfolio Projects
+
+* [Data Ethics & GDPR](https://gavinsimpson.github.io/dyr-og-data-slides/slides/26-data-ethics-and-gdpr.html)
+
 ## Documents from the in-class activities
 
 1. [Intro to R](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
