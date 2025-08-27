@@ -6,7 +6,7 @@ These slides are for the Dyr og Data course at Aarhus University
 
 1. [Course introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01-course-introduction.html)
 2. [Data science](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01b-data-science.html)
-3. [R basics](https://gavinsimpson.github.io/slides/dyr-og-data-slides/slides/02-r-basics.html)
+3. [R basics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02-r-basics.html)
 
 <!--
 
