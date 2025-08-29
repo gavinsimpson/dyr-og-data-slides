@@ -6,7 +6,10 @@ These slides are for the Dyr og Data course at Aarhus University
 
 1. [Course introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01-course-introduction.html)
 2. [Data science](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01b-data-science.html)
-<!-- 2. [R basics](https://gavinsimpson.github.io/slides/dyr-og-data-slides/slides/02-r-basics.html)
+3. [R basics](https://gavinsimpson.github.io/slides/dyr-og-data-slides/slides/02-r-basics.html)
+
+<!--
+
 3. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
 4. Data wrangling
     * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
@@ -49,10 +52,12 @@ These slides are for the Dyr og Data course at Aarhus University
 
 -->
 
-<!--
 ## Documents from the in-class activities
 
 1. [Intro to R](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
+
+<!--
+
 2. [Mathlink cubes](https://gavinsimpson.github.io/dyr-og-data-slides/activities/02-mathcubes-slides.html)
 3. [Wrangling polar bears](https://gavinsimpson.github.io/dyr-og-data-slides/activities/03-polar-bears.html)
 4. [Tidying & joining data](https://gavinsimpson.github.io/dyr-og-data-slides/activities/04-tidying-and-joining.html)
