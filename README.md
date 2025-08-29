@@ -54,7 +54,9 @@ These slides are for the Dyr og Data course at Aarhus University
 
 ## Documents from the in-class activities
 
-1. [Intro to R](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
+1. Intro to R
+  * [Intro to R slides](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01b-intro-to-r-slides.html)
+  * [Intro to R activity](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
 
 <!--
 
