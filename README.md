@@ -6,15 +6,15 @@ These slides are for the Dyr og Data course at Aarhus University
 
 1. [Course introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01-course-introduction.html)
 2. [Data science](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01b-data-science.html)
-3. [R basics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02-r-basics.html)
-
-<!--
-
-3. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
+3. [R basics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02-r-basics.html)3. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
 4. Data wrangling
     * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
     * [Data wrangling - pivoting](https://gavinsimpson.github.io/dyr-og-data-slides/slides/05-data-wrangling-pivoting.html)
     * [Data wrangling - joins](https://gavinsimpson.github.io/dyr-og-data-slides/slides/06-data-wrangling-joins.html)
+
+<!--
+
+
 5. Data visualisation
     * [Data visualisation introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/07-data-visualisation-intro.html)
     * [Groups, facets, stats](https://gavinsimpson.github.io/dyr-og-data-slides/slides/08-data-visualisation-groups-facets-stats.html)
@@ -58,10 +58,10 @@ These slides are for the Dyr og Data course at Aarhus University
 1. Intro to R
   * [Intro to R slides](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01b-intro-to-r-slides.html)
   * [Intro to R activity](https://gavinsimpson.github.io/dyr-og-data-slides/activities/01-intro-to-r.html)
+2. [Mathlink cubes](https://gavinsimpson.github.io/dyr-og-data-slides/activities/02-mathcubes-slides.html)
 
 <!--
 
-2. [Mathlink cubes](https://gavinsimpson.github.io/dyr-og-data-slides/activities/02-mathcubes-slides.html)
 3. [Wrangling polar bears](https://gavinsimpson.github.io/dyr-og-data-slides/activities/03-polar-bears.html)
 4. [Tidying & joining data](https://gavinsimpson.github.io/dyr-og-data-slides/activities/04-tidying-and-joining.html)
 5. [Making a plot with ggplot](https://gavinsimpson.github.io/dyr-og-data-slides/activities/05-making-a-plot-with-ggplot.html)
