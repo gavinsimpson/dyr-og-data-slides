@@ -7,9 +7,10 @@ These slides are for the Dyr og Data course at Aarhus University
 1. [Course introduction](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01-course-introduction.html)
 2. [Data science](https://gavinsimpson.github.io/dyr-og-data-slides/slides/01b-data-science.html)
 3. R Basics
-  * [R basics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02-r-basics.html)3. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
-  * [Importing data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02b-importing-data.html)
-4. Data wrangling
+    * [R basics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02-r-basics.html)
+    * [Importing data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/02b-importing-data.html)
+4. [Data frames](https://gavinsimpson.github.io/dyr-og-data-slides/slides/03-data-frames.html)
+5. Data wrangling
     * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
     * [Data wrangling - pivoting](https://gavinsimpson.github.io/dyr-og-data-slides/slides/05-data-wrangling-pivoting.html)
     * [Data wrangling - joins](https://gavinsimpson.github.io/dyr-og-data-slides/slides/06-data-wrangling-joins.html)
