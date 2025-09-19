@@ -14,6 +14,13 @@ These slides are for the Dyr og Data course at Aarhus University
     * [Data wrangling with *dplyr*](https://gavinsimpson.github.io/dyr-og-data-slides/slides/04-data-wrangling-with-dplyr.html)
     * [Data wrangling - pivoting](https://gavinsimpson.github.io/dyr-og-data-slides/slides/05-data-wrangling-pivoting.html)
     * [Data wrangling - joins](https://gavinsimpson.github.io/dyr-og-data-slides/slides/06-data-wrangling-joins.html)
+6. Statistical Thinking
+    * [Introduction to Statistical Thinking](https://gavinsimpson.github.io/dyr-og-data-slides/slides/16-statistical-thinking-intro.html)
+    * Descriptive statistics and EDA
+        * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/17-statistical-thinking-types-of-data.html)
+        * [Descriptive statistics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/18-statistical-thinking-descriptive-statistics.html)
+        * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
+        * [Graphical exploratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
 
 <!--
 
@@ -30,13 +37,6 @@ These slides are for the Dyr og Data course at Aarhus University
     * [YAML](https://gavinsimpson.github.io/dyr-og-data-slides/slides/13-yaml.html)
     * [Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/14-quarto.html)
     * [Making presentations with Quarto](https://gavinsimpson.github.io/dyr-og-data-slides/slides/15-quarto-revealjs-slides.html)
-7. Statistical Thinking
-    * [Introduction to Statistical Thinking](https://gavinsimpson.github.io/dyr-og-data-slides/slides/16-statistical-thinking-intro.html)
-    * Descriptive statistics and EDA
-        * [Types of data](https://gavinsimpson.github.io/dyr-og-data-slides/slides/17-statistical-thinking-types-of-data.html)
-        * [Descriptive statistics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/18-statistical-thinking-descriptive-statistics.html)
-        * [Probability distributions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/19-statistical-thinking-probability-distributions.html)
-        * [Graphical exploratory data analysis](https://gavinsimpson.github.io/dyr-og-data-slides/slides/20-statistical-thinking-graphical-eda.html)
     * Sampling and statistical inference
         * [Sampling & statistical inference](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
     * Linear models
