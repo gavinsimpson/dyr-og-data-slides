@@ -37,7 +37,7 @@ These slides are for the Dyr og Data course at Aarhus University
         * [Sampling & statistical inference](https://gavinsimpson.github.io/dyr-og-data-slides/slides/21-statistical-inference.html)
     * Linear models
         * [Gaussian linear models](https://gavinsimpson.github.io/dyr-og-data-slides/slides/23-simple-linear-models.html)
-        * [Interactions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/24-models-with-categorical-predictors.html)
+        * [Categorical predictors and interactions](https://gavinsimpson.github.io/dyr-og-data-slides/slides/24-models-with-categorical-predictors.html)
         * [Generalized Linear Models](https://gavinsimpson.github.io/dyr-og-data-slides/slides/25-generalized-linear-models.html)
 <!--
 
