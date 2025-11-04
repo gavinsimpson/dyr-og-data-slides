@@ -57,15 +57,10 @@ These slides are for the Dyr og Data course at Aarhus University
 
 -->
 
-<!--
-
 ## Portfolio Projects
-
-* [Data Ethics & GDPR](https://gavinsimpson.github.io/dyr-og-data-slides/slides/26-data-ethics-and-gdpr.html)
 
 * [Infographics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/27-infographics.html)
 
--->
 
 ## Documents from the in-class activities
 
