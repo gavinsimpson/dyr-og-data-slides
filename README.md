@@ -60,6 +60,7 @@ These slides are for the Dyr og Data course at Aarhus University
 ## Portfolio Projects
 
 * [Infographics](https://gavinsimpson.github.io/dyr-og-data-slides/slides/27-infographics.html)
+* [Dashboards](https://gavinsimpson.github.io/dyr-og-data-slides/slides/28-dashboards.html)
 
 
 ## Documents from the in-class activities
