@@ -73,3 +73,7 @@ These slides are for the Dyr og Data course at Aarhus University
 4. [Tidying & joining data](https://gavinsimpson.github.io/dyr-og-data-slides/activities/04-tidying-and-joining.html)
 5. [Making a plot with ggplot](https://gavinsimpson.github.io/dyr-og-data-slides/activities/05-making-a-plot-with-ggplot.html)
 6. [Dog morphology data viz](https://gavinsimpson.github.io/dyr-og-data-slides/activities/06-dog-morphology-data-viz.html)
+
+## Dyr og Mennesker
+
+* [Slides](https://gavinsimpson.github.io/dyr-og-data-slides/activities/99-dyr-og-mennesker-semester-project-2025.html)
