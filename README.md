@@ -76,4 +76,4 @@ These slides are for the Dyr og Data course at Aarhus University
 
 ## Dyr og Mennesker
 
-* [Slides](https://gavinsimpson.github.io/dyr-og-data-slides/activities/99-dyr-og-mennesker-semester-project-2025.html)
+* [Slides](https://gavinsimpson.github.io/dyr-og-data-slides/slides/99-dyr-og-mennesker-semester-project-2025.html)
